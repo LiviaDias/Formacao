@@ -1,0 +1,38 @@
+body{
+	text-align: center;
+	font-family: arial;
+	background-image: url(imagens/code.jpeg);
+	background-size: cover;
+	color: white;
+}
+h1{
+	font-size: 70px;
+	padding-top: 250px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 15px;
+}
+p{
+	font-size: 28px;
+	text-shadow: 2px 2px 2px gray;
+
+}
+.botao{
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	font-size: 20px;
+	padding: 8px 10px 8px 10px;
+	border-radius: 4px; 
+}
+.botao:hover{
+	background-color: gray;
+}
+.lista{
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 135px;
+}
+.lista a{
+	color: white;
+	font-size: 25px;
+}
